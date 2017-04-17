@@ -68,8 +68,5 @@ local_settings.py
 venv/
 ENV/
 
-# configuration
-config.json
-
 # idea
 *.idea/
