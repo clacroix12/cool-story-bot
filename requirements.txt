@@ -1,0 +1,6 @@
+flake8==3.3.0
+pytest==3.0.7
+pytest-cov==2.4.0
+python-twitter==3.2.1
+tox==2.7.0
+wikipedia==1.4.0
